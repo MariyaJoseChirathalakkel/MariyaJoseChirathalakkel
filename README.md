@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Mariya
 
-<!--
-**MariyaJoseChirathalakkel/MariyaJoseChirathalakkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+MSc in Artificial Intelligence. Interested in machine unlearning and AI safety. Currently building foundations in PyTorch and reading the unlearning literature
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Background
+- BSc in Computer Science, Mathematics, and Statistics
+- MSc in Big Data Analytics, then MSc in Artificial Intelligence
+- Industry experience as a Junior AI and Deep Learning Engineer
+
+## Links
+
+- Email: mariyajosechirathalakkel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/c-mariya-jose/
