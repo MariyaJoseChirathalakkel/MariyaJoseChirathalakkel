@@ -6,7 +6,8 @@ MSc in Artificial Intelligence. Interested in machine unlearning and AI safety. 
 
 ## Background
 - BSc in Computer Science, Mathematics, and Statistics
-- MSc in Big Data Analytics, then MSc in Artificial Intelligence
+- MSc in Big Data Analytics
+- MSc in Artificial Intelligence
 - Industry experience as a Junior AI and Deep Learning Engineer
 
 ## Links
